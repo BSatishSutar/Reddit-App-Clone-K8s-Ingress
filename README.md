@@ -1,6 +1,9 @@
 # Reddit Clone App on Kubernetes with Ingress
 This project demonstrates how to deploy a Reddit clone app on Kubernetes with Ingress and expose it to the world using Minikube as the cluster.
 
+![Alt Text](https://techiescamp.com/wp-content/uploads/2023/01/techiescamp-hero-image.png)
+
+
 ## Prerequisites
 Before you begin, you should have the following tools installed on your local machine: 
 
